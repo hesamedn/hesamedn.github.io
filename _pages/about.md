@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
-I’m an M.Sc. student of Physics from the Institute for Advanced Studies in Basic Sciences(IASBS). My major is Complex Systems, Currently I'm working on "Effect of substrate geometry on the 1 + 1 dimensional Kardar-Parisi-Zhang growth model".
+
+I’m an M.Sc. student of Physics from the Institute for Advanced Studies in Basic Sciences(IASBS). Currently I'm working on "Effect of substrate geometry on the 1 + 1 dimensional Kardar-Parisi-Zhang growth model".
 
 A data-driven personal website
 ======
