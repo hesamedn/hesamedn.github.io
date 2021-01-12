@@ -9,23 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Eduction
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Master of Science in Physics**
+* [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
+* Thesis title:"Effect of substrate geometry on the 1 + 1 dimensional Karder-Paris-Zhang growth model".
+* Supervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and Dr. [Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Bachelor of Science in Physics**
+* [University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en)
+* Project title:"Monte Carlo (MC) algorithm for solving mathematical equations in physics problems".
+* Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -47,13 +42,5 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
