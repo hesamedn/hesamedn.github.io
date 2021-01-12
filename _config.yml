@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Hesam E. Derakhshan"
-  avatar           : "photo1.jpg"
+  avatar           : "photo2.jpg"
   bio              : "I'm a physics student interested in computers and their applications in physics."
   location         : "Iran-Tabriz"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Hesam_Derakhshan2"
   uri              :
   bitbucket        :
   codepen          :
