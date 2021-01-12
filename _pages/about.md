@@ -10,7 +10,7 @@ redirect_from:
 
 I’m an M.Sc. student of Physics from the Institute for Advanced Studies in Basic Sciences(IASBS). Currently I'm working on "Effect of substrate geometry on the 1 + 1 dimensional Kardar-Parisi-Zhang growth model".
 
-I hold a Bachelor’s Degree in Physics from the [University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en) where I was advised by Dr. [Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi).
+*I hold a Bachelor’s Degree in Physics from the [University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en) where I was advised by Dr. [Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi).
 
 Currently
 ======
