@@ -14,17 +14,21 @@ Personal Information
 ===========
 
 Birth date: 1994/12/24
+
 Birth place: Tabriz, Iran
+
 Nationality: Iranian
 
 ### Languages
 
-English(proficient), Turkish(native), Persian(bilingual)
+* English(proficient)
+* Turkish(native)
+* Persian(bilingual)
 
-_________________________________________________________________
+
 ### Eduction
 
-**Master of Science in Physics**
+***Master of Science in Physics***
 * [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
 * Thesis title:"Effect of substrate geometry on the 1 + 1 dimensional Karder-Paris-Zhang growth model".
 * Supervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and Dr. [Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)
@@ -42,10 +46,10 @@ Skills
   * Interface growth models (EW, KPZ)
   * Epidemic models
   * Nonlinear dynamical systems and chaos,
-* Data Science
 * Programming Languages
   * C++ 
   * python
+* Data Science
   
 ### Other skills
 
@@ -59,4 +63,6 @@ Skills
 
 ### Other  Research Interests 
 
-Computer Science, Math, Philosophy, Social science
+* Computer Science
+* Math, Philosophy
+* Social science
