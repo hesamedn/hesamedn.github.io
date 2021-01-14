@@ -21,8 +21,8 @@ Nationality: Iranian
 
 English(proficient), Turkish(native), Persian(bilingual)
 
-***Eduction***
-
+_________________________________________________________________
+### Eduction
 
 **Master of Science in Physics**
 * [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
@@ -35,7 +35,7 @@ English(proficient), Turkish(native), Persian(bilingual)
 * Project title:"Monte Carlo (MC) algorithm for solving mathematical equations in physics problems".
 * Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)
 
-  
+
 Skills
 ======
 * Numerical Simulation,
@@ -44,15 +44,16 @@ Skills
   * Nonlinear dynamical systems and chaos,
 * Data Science
 
-programming languages
-======
+### programming languages
+
 C++ 
 python
   
-Other skills
-========
+### Other skills
+
 Git, Data Visualization, OriginPro, LaTeX, Web Designing, Computer Hardware, Android, bash script.
 
-Other Study Interests
-===========
+
+### Other  Research Interests 
+
 Computer Science, Math, Philosophy, Social science
