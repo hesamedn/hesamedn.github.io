@@ -22,7 +22,8 @@ Our Group
 =========
 ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo4.jpg)
 
-**Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). Our favorite research topics are:
+**[Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/)* and **[Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)
+** are the heads of our research group at the Faculty of Physics of the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). Our favorite research topics are:
 * Neuroscience
 * Sandpile Model
 * Spreading Phenomena
