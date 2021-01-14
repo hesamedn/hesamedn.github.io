@@ -11,8 +11,8 @@ redirect_from:
 
 
 ____________________________
-Eduction
-========
+## Eduction
+
 
 **Master of Science in Physics**
 * [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
@@ -26,7 +26,7 @@ Eduction
 * Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)
 
 
-# Languages
+## Languages
 
 * English(proficient)
 * Turkish(native)
@@ -43,7 +43,7 @@ Eduction
   * python
 * Data Science
   
-### Other skills
+## Other skills
 
 * Git
 * Data Visualization
@@ -53,13 +53,13 @@ Eduction
 * bash script
 
 
-### Other  Research Interests 
+## Other  Research Interests 
 
 * Computer Science
 * Math, Philosophy
 * Social science
 
-### Personal Information
+## Personal Information
 
 Birth date: 1994/12/24
 
