@@ -1,1 +1,1 @@
-my academic website froked from https://academicpages.github.io/
+my academic website forked from https://academicpages.github.io/
