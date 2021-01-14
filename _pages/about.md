@@ -20,7 +20,6 @@ redirect_from:
 
 Our Group
 =========
-![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo4.jpg)
 
 [**Dr. Mohammad D. Niry**](https://iasbs.ac.ir/~m.d.niry/) and [**Dr. Bahman Farnudi**](https://iasbs.ac.ir/~farnudi/stsn_eng.htm) are the heads of our research group at the Faculty of Physics of the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). Our favorite research topics are:
 * Neuroscience
@@ -33,3 +32,6 @@ Our Group
 * Random Walk and Fractional Brownian motion
 * The Intermittency issue in Burgulence and Turbulence.
 
+
+![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo4.jpg)
+group Meeting
