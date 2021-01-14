@@ -15,8 +15,7 @@ redirect_from:
 
 * I hold a Bachelor’s Degree in Physics from the [University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en) where I was advised by [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi).
 
-* My research interests lie in the general area of Complex Systems, particularly in Nonequilibrium Roughening in Surface Growth,Nonlinear dynamical systems,
-Synchronization, Kuramoto model and Spreading Phenomena in Network.
+* My research interests lie in the general area of Complex Systems, Network Science and Data Science, particularly in Nonequilibrium Roughening in Surface Growth, and Spreading Phenomena in Network.
 
 
 Our Group
