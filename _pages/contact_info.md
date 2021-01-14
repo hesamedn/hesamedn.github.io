@@ -24,6 +24,6 @@ Institute for Advanced Studies in Basic Sciences (IASBS),
 Zanjan, IRAN
 
 
-![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo7.jpeg)  |  ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo6.jpeg)
+|![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo7.jpeg)  |  ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo6.jpeg)|
 
 
