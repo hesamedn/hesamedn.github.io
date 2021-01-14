@@ -31,5 +31,14 @@ Eduction
 
 Our Group
 =========
-Dr. Mohammad D. Niry and Dr. Bahman Farnudi are the heads of our research group. Our favorite research topics are Neuroscience, Sandpile Model, The Intermittency issue in Burgulence and Turbulence, Surface growth model (EW, KPZ, and RSOS), Localization of wave in disordered media, Stochastic nature of seismic activity, Random Walk and Fractional Brownian motion.
 ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo4.jpg)
+
+**Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the Institute of the Advanced Studies in Basic Sciences(IASBS). Our favorite research topics are:
+* Neuroscience
+* Sandpile Model
+* The Intermittency issue in Burgulence and Turbulence
+* Surface growth model (EW, KPZ, and RSOS)
+* Localization of wave in disordered media
+* Stochastic nature of seismic activity
+* Random Walk and Fractional Brownian motion.
+
