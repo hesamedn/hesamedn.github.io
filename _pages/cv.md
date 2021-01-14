@@ -16,14 +16,10 @@ ____________________________
 
 **Master of Science in Physics**
 
-[Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
-
-Thesis title:"Effect of substrate geometry on the 1 + 1 dimensional Karder-Paris-Zhang growth model".
-
-
-Supervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and [Dr. Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)
-
-september 2018 - Present
+>[Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
+>Thesis title:"Effect of substrate geometry on the 1 + 1 dimensional Karder-Paris-Zhang growth model".
+>upervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and [Dr. Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)
+>september 2018 - Present
 
 **Bachelor of Science in Physics**
 
@@ -36,20 +32,18 @@ Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)
 september 2013 - August 2017
 
 ## Languages
-
 * English(proficient)
 * Turkish(native)
 * Persian(bilingual)
 
 ## Skills
-
 * Numerical Simulation,
   * Interface growth models (EW, KPZ)
   * Epidemic models
   * Nonlinear dynamical systems and chaos,
 * Programming Languages
   * C++ 
-  * python
+  * Python
 * Data Science
   * Regression
 * Other skills
@@ -67,7 +61,6 @@ september 2013 - August 2017
 ## Seminar/Webinar Attended
 
 ## Other  Research Interests 
-
 * Computer Science
 * Math
 * Philosophy
