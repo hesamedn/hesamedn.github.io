@@ -17,12 +17,12 @@ Birth date: 1994/12/24
 Birth place: Tabriz, Iran
 Nationality: Iranian
 
-Languages
-========
+### Languages
+
 English(proficient), Turkish(native), Persian(bilingual)
 
-Eduction
-======
+***Eduction***
+
 
 **Master of Science in Physics**
 * [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
