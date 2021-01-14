@@ -51,17 +51,20 @@ september 2013 - August 2017
   * C++ 
   * python
 * Data Science
-  
-## Other skills
+  * Regression
+* Other skills
+  * Git 
+  * Linux
+  * LaTeX
+  * OriginPro
+  * Bash Script
+  * Web Designing
+  * Data Visualization
 
-* Git
-* Linux
-* LaTeX
-* OriginPro
-* Bash Script
-* Web Designing
-* Data Visualization
-
+## Projects and Researches
+## Research Interests
+## Workshop Attended
+## Seminar/Webinar Attended
 
 ## Other  Research Interests 
 
