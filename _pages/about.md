@@ -29,6 +29,6 @@ Eduction
 * Project title:"Monte Carlo (MC) algorithm for solving mathematical equations in physics problems".
 * Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)
 
-Academic Group
+Our Group
 =========
 ![Photo](https://github.com/hesamedn/hesamedn.github.io/blob/master/images/photo4.jpg)
