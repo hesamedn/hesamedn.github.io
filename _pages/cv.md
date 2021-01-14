@@ -11,21 +11,6 @@ redirect_from:
 
 
 
-### Personal Information
-
-Birth date: 1994/12/24
-
-Birth place: Tabriz, Iran
-
-Nationality: Iranian
-
-### Languages
-
-* English(proficient)
-* Turkish(native)
-* Persian(bilingual)
-
-
 ### Eduction
 
 **Master of Science in Physics**
@@ -39,6 +24,12 @@ Nationality: Iranian
 * Project title:"Monte Carlo (MC) algorithm for solving mathematical equations in physics problems".
 * Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)
 
+
+### Languages
+
+* English(proficient)
+* Turkish(native)
+* Persian(bilingual)
 
 ## Skills
 
@@ -66,3 +57,11 @@ Nationality: Iranian
 * Computer Science
 * Math, Philosophy
 * Social science
+
+### Personal Information
+
+Birth date: 1994/12/24
+
+Birth place: Tabriz, Iran
+
+Nationality: Iranian
