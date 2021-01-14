@@ -16,7 +16,7 @@ redirect_from:
 * I hold a Bachelor’s Degree in Physics from the [University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en) where I was advised by [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi).
 
 * My research interests lie in the general area of Complex Systems, particularly in Nonequilibrium Roughening in Surface Growth,Nonlinear dynamical systems,
-Synchronization, Kuramoto model and Spreading Phenomena in Network Science.
+Synchronization, Kuramoto model and Spreading Phenomena in Network.
 
 
 Our Group
@@ -26,8 +26,11 @@ Our Group
 **Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). Our favorite research topics are:
 * Neuroscience
 * Sandpile Model
+* Spreading Phenomena
+* Synchronization, Kuramoto model
 * Stochastic nature of seismic activity
 * Surface growth model (EW, KPZ, and RSOS)
 * Localization of wave in disordered media
 * Random Walk and Fractional Brownian motion
 * The Intermittency issue in Burgulence and Turbulence.
+
