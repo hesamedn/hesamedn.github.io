@@ -43,18 +43,16 @@ Skills
   * Epidemic models
   * Nonlinear dynamical systems and chaos,
 * Data Science
-
-### programming languages
-
-C++ 
-python
+* Programming Languages
+  * C++ 
+  * python
   
 ### Other skills
 
 * Git
 * Data Visualization
 * OriginPro
-*LaTeX
+* LaTeX
 * Web Designing
 * bash script
 
