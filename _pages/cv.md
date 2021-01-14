@@ -18,18 +18,15 @@ ____________________________
 
 >[Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)  
 >Thesis title: "Effect of substrate geometry on the 1 + 1 dimensional Karder-Paris-Zhang growth model"  
->upervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and [Dr. Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)  
+>Supervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and [Dr. Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)  
 >september 2018 - Present
 
 **Bachelor of Science in Physics**
 
-[University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en)
-
-Project title: "Monte Carlo (MC) algorithm for solving mathematical equations in physics problems".
-
-Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)
-
-september 2013 - August 2017
+>[University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en)  
+>Project title: "Monte Carlo (MC) algorithm for solving mathematical equations in physics problems"  
+>Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)  
+>september 2013 - August 2017
 
 ## Languages
 * English(proficient)
