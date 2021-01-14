@@ -17,23 +17,12 @@ redirect_from:
 
 * My research interests lie in the general area of Complex Systems, particularly in Nonequilibrium Roughening in Surface Growth and Spreading Phenomena in Network Science.
 
-Eduction
-======
-**Master of Science in Physics**
-* [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
-* Thesis title:"Effect of substrate geometry on the 1 + 1 dimensional Karder-Paris-Zhang growth model".
-* Supervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and Dr. [Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)
-
-**Bachelor of Science in Physics**
-* [University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en)
-* Project title:"Monte Carlo (MC) algorithm for solving mathematical equations in physics problems".
-* Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)
 
 Our Group
 =========
 ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo4.jpg)
 
-**Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the Institute of the Advanced Studies in Basic Sciences(IASBS). Our favorite research topics are:
+**Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). Our favorite research topics are:
 * Neuroscience
 * Sandpile Model
 * Stochastic nature of seismic activity
