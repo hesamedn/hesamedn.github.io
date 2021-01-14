@@ -46,17 +46,19 @@ ____________________________
 ## Other skills
 
 * Git
-* Data Visualization
-* OriginPro
+* Linux
 * LaTeX
+* OriginPro
+* Bash Script
 * Web Designing
-* bash script
+* Data Visualization
 
 
 ## Other  Research Interests 
 
 * Computer Science
-* Math, Philosophy
+* Math
+* Philosophy
 * Social science
 
 ## Personal Information
