@@ -17,7 +17,7 @@ ____________________________
 **Master of Science in Physics**
 * [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en)
 * Thesis title:"Effect of substrate geometry on the 1 + 1 dimensional Karder-Paris-Zhang growth model".
-* Supervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and Dr. [Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)
+* Supervisor: [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/) and [Dr. Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm)
 
 
 **Bachelor of Science in Physics**
