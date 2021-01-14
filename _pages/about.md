@@ -31,4 +31,4 @@ Eduction
 
 Our Group
 =========
-![Photo](https://github.com/hesamedn/hesamedn.github.io/blob/master/images/photo4.jpg)
+![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo4.jpg)
