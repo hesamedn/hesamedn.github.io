@@ -51,7 +51,12 @@ python
   
 ### Other skills
 
-Git, Data Visualization, OriginPro, LaTeX, Web Designing, Computer Hardware, Android, bash script.
+* Git
+* Data Visualization
+* OriginPro
+*LaTeX
+* Web Designing
+* bash script
 
 
 ### Other  Research Interests 
