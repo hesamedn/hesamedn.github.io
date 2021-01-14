@@ -37,7 +37,7 @@ Our Group
 * Neuroscience
 * Sandpile Model
 * Stochastic nature of seismic activity
-* Surface growth model (EW, KPZ, and RSOS)
 * Localization of wave in disordered media
 * Random Walk and Fractional Brownian motion
+* Surface growth model (EW, KPZ, and RSOS)
 * The Intermittency issue in Burgulence and Turbulence.
