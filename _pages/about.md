@@ -17,6 +17,7 @@ redirect_from:
 * My research interests lie in the general area of Complex Systems, Network Science and Data Science, particularly in Nonequilibrium Roughening in Surface Growth, and Spreading Phenomena (Epidemic models) in Network.
 
 * In my spare time, I sometimes study other branches of Science like sociology, I also like to connect with other disciplines and multidisciplinary teams.  
+
 Our Group
 =========
 
