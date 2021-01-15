@@ -95,10 +95,10 @@ redirect_from:
 * School of Physics for B. Sc. Students, February, 2019, Institute for advanced studies in basic science, Zanjan, Iran.
 
 ## Seminar/Webinar Attended  
-Complex Systems Weekly webinar at Sharif University, Tehran, Iran.  
-Physics news Weekly webinar at Sharif University, Tehran, Iran.  
-Condensed Matter Physics Weekly seminar/webinar at Institute for advanced studies in basic science, Zanjan, Iran.  
-General Physics Weekly Seminar at Institute for advanced studies in basic science, Zanjan, Iran.  
+* Complex Systems Weekly webinar at Sharif University, Tehran, Iran.  
+* Physics news Weekly webinar at Sharif University, Tehran, Iran.  
+* Condensed Matter Physics Weekly seminar/webinar at Institute for advanced studies in basic science, Zanjan, Iran.  
+* General Physics Weekly Seminar at Institute for advanced studies in basic science, Zanjan, Iran.  
 ## Personal Information
 
 Birth date: 1994/12/24
