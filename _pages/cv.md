@@ -26,7 +26,7 @@ ____________________________
 >[University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en)  
 >Project title: "Monte Carlo (MC) algorithm for solving mathematical equations in physics problems"  
 >Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)  
->September 2013 - August 2017
+>September 2013 - August 2018
 
 **High School**  
 >Shahid Motahhari High School, Tabriz, Iran  
