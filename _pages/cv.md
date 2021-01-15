@@ -43,6 +43,8 @@ redirect_from:
   * Surface Growth models (EW, KPZ)
   * Epidemic Models
   * Nonlinear Dynamical Systems and Chaos,
+  * LU decomposition
+  * Sparse matrix
 * Programming Languages
   * C++ 
   * Python
@@ -63,10 +65,13 @@ redirect_from:
 * Numerical simulation of 1 + 1 Dimension KPZ equation using Moving-Mesh method for discretization.    
 * Numerical simulation of 1 + 1 Dimension KPZ equation using Finite-Difference method for discretization.    
 * Numerical simulation of 1 + 1 Dimension Edwards-Wilkinson equation using Finite-Difference method for discretization.  
-* Simulation Balestic Deposition.  
-* Simulation Random Deposition with Surface Relaxation.  
-* Generate a noise with arbitrary power spectral density. 
-
+* Simulation Balestic Deposition.    
+* Simulation Random Deposition with Surface Relaxation.    
+* Generate a noise with arbitrary power spectral density.  
+* Dynamics of disease spreading on the network following the SIS rule.  
+* Simulation of the Ising model using the Metropolis algorithm.  
+* Simulation 1D diffusion equation.
+* The Hodgkin–Huxley model
 **Bachelor Projects**:
 * The Monte-Carlo approach to the study of the integro-differential equations.   
 ## Research Interests
