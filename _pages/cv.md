@@ -28,8 +28,8 @@ ____________________________
 >Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)  
 >September 2013 - August 2017
 
->**Shahid Motahhari High School, Tabriz, Iran**
->Major: Physics and Mathematics
+**Shahid Motahhari High School, Tabriz, Iran**  
+>Major: Physics and Mathematics  
 >Sept 2009 - August 2013
 
 ## Languages
