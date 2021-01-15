@@ -78,9 +78,9 @@ redirect_from:
 * General Physics Weekly Seminar at Institute for advanced studies in basic science, Zanjan, Iran.  
 ## Related Course
 * Dynamical Systems, Book: Nonlinear Dynamics and Chaos  
-* Computational Physics, Book: numerical recipes in c++  
+* Computational Physics, Book: Numerical recipes in c++  
 * Complex Networks, Books: Network Science and Networks: An Introduction  
-* Statistical Mechanics (1 and 2),Books: A Modern Course in Statistical Physics, david tong lectures and Statistical Mechanics of Particles 
+* Statistical Mechanics (1 and 2),Books: A Modern Course in Statistical Physics, David Tong lectures and Statistical Mechanics of Particles 
 * Theoretical Neuroscience, Book:Neuronal Dynamics From single neurons to networks and models of cognition  
 ## Skills
 * Numerical Simulation,
