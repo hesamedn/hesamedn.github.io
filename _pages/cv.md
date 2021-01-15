@@ -80,7 +80,8 @@ redirect_from:
 * Dynamical Systems, Book: Nonlinear Dynamics and Chaos  
 * Computational Physics, Book: numerical recipes in c++  
 * Complex Networks, Books: Network Science and Networks: An Introduction  
-* 1 and 2 Statistical Mechanics,Books: A Modern Course in Statistical Physics, david tong lectures and Statistical Mechanics of Particles  
+* Statistical Mechanics (1 and 2),Books: A Modern Course in Statistical Physics, david tong lectures and Statistical Mechanics of Particles 
+* Theoretical Neuroscience, Book:Neuronal Dynamics From single neurons to networks and models of cognition  
 ## Skills
 * Numerical Simulation,
   * Floating point arithmetic
