@@ -38,27 +38,6 @@ redirect_from:
 * Persian (bilingual)
 * Azerbaijan (proficient)
 
-## Skills
-* Numerical Simulation,
-  * Surface Growth models (EW, KPZ)
-  * Epidemic Models
-  * Nonlinear Dynamical Systems and Chaos,
-  * LU decomposition
-  * Sparse matrix
-* Programming Languages
-  * C++ 
-  * Python
-* Data Science
-  * Regression
-* Other Skills
-  * Git 
-  * Linux
-  * LaTeX
-  * OriginPro
-  * Bash Script
-  * Web Designing
-  * Data Visualization
-
 ## Projects and Researches
 
 **Master projects**:
@@ -99,6 +78,28 @@ redirect_from:
 * Physics news Weekly webinar at Sharif University, Tehran, Iran.  
 * Condensed Matter Physics Weekly seminar/webinar at Institute for advanced studies in basic science, Zanjan, Iran.  
 * General Physics Weekly Seminar at Institute for advanced studies in basic science, Zanjan, Iran.  
+
+## Skills
+* Numerical Simulation,
+  * Surface Growth models (EW, KPZ)
+  * Epidemic Models
+  * Nonlinear Dynamical Systems and Chaos,
+  * LU decomposition
+  * Sparse matrix
+* Programming Languages
+  * C++ 
+  * Python
+* Data Science
+  * Regression
+* Other Skills
+  * Git 
+  * Linux
+  * LaTeX
+  * OriginPro
+  * Bash Script
+  * Web Designing
+  * Data Visualization
+  
 ## Personal Information
 
 Birth date: 1994/12/24
