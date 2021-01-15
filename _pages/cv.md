@@ -31,7 +31,7 @@ ____________________________
 **High School**  
 >Shahid Motahhari High School, Tabriz, Iran  
 >Major: Physics and Mathematics  
->Sept 2009 - August 2013
+>September 2009 - August 2013
 
 ## Languages
 * English(proficient)
