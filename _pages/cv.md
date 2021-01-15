@@ -59,13 +59,15 @@ redirect_from:
 
 ## Projects and Researches
 
-**Master project**: Numerical simulation of 1 + 1 Dimension KPZ equation using Moving-Mesh method for discretization.    
-1: Numerical simulation of 1 + 1 Dimension KPZ equation using Finite-Difference method for discretization.    
-1: Numerical simulation of 1 + 1 Dimension Edwards-Wilkinson equation using Finite-Difference method for discretization.  
-1: Simulation Balestic deposition.  
-1: Simulation Random deposition with surface relaxation.  
-1: Generate a noise with arbitrary power spectral density.   
-**Bachelor Project**: The Monte-Carlo approach to the study of the integro-differential equations.   
+**Master project**:
+* Numerical simulation of 1 + 1 Dimension KPZ equation using Moving-Mesh method for discretization.    
+* Numerical simulation of 1 + 1 Dimension KPZ equation using Finite-Difference method for discretization.    
+* Numerical simulation of 1 + 1 Dimension Edwards-Wilkinson equation using Finite-Difference method for discretization.  
+* Simulation Balestic deposition.  
+* Simulation Random deposition with surface relaxation.  
+* Generate a noise with arbitrary power spectral density.   
+**Bachelor Project**:
+* The Monte-Carlo approach to the study of the integro-differential equations.   
 ## Research Interests
 * Nonequilibrium Roughening in Surface Growth,
 * Spreading Phenomena (Epidemic models) in Network
