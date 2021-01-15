@@ -38,6 +38,9 @@ redirect_from:
 * Persian (bilingual)
 * Azerbaijan (proficient)
 
+## Related Course Attended
+* Theoretical Neuroscience (Book: Neural Dynamics)
+
 ## Projects and Researches
 
 **Master projects**:
@@ -79,11 +82,13 @@ redirect_from:
 
 ## Skills
 * Numerical Simulation,
-  * Surface Growth models (EW, KPZ)
-  * Epidemic Models
-  * Nonlinear Dynamical Systems and Chaos,
-  * LU decomposition
-  * Sparse matrix
+  * Floating point arithmetic
+  * High performance computing
+  * Modeling and statistical discription of data
+  * GNU Scientific Library
+  * Solving systems of linear equations (direct methos and iterative methods)
+  * Numerical integration
+  * Ordinary differential equations
 * Programming Languages
   * C++ 
   * Python
