@@ -42,8 +42,8 @@ redirect_from:
 
 **Master projects**:
 * Numerical simulation of 1 + 1 Dimension KPZ equation using Moving-Mesh method for discretization.    
-* Numerical simulation of 1 + 1 Dimension Edwards-Wilkinson equation and KPZ equation using Finite-Difference method for discretization.     
-* Simulation Balestic Deposition and Random Deposition with Surface Relaxation.        
+* Numerical simulation of 1 + 1 Dimension Edwards-Wilkinson and KPZ equation using Finite-Difference method for discretization.     
+* Simulation 1D Balestic Deposition and Random Deposition with Surface Relaxation.        
 * Generate a noise with arbitrary power spectral density.    
 * Dynamics of disease spreading on the network following the SIS rule.    
 * Simulation of the Ising model using the Metropolis algorithm.    
