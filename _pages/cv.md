@@ -82,7 +82,7 @@ redirect_from:
 * Computational Physics, Book: Numerical recipes in c++  
 * Complex Networks, Books: Network Science and Networks: An Introduction  
 * Statistical Mechanics (1 and 2),Books: A Modern Course in Statistical Physics, David Tong lectures and Statistical Mechanics of Particles 
-* Theoretical Neuroscience, Book:Neuronal Dynamics From single neurons to networks and models of cognition  
+* Theoretical Neuroscience, Book: Neuronal Dynamics From single neurons to networks and models of cognition  
 
 ## Skills
 * Numerical Simulation,
