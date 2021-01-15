@@ -34,9 +34,10 @@ ____________________________
 >September 2009 - August 2013
 
 ## Languages
-* English(proficient)
-* Turkish(native)
-* Persian(bilingual)
+* English (upper intermediate)
+* Turkish (native)
+* Persian (bilingual)
+* Azerbaijan (proficient)
 
 ## Skills
 * Numerical Simulation,
