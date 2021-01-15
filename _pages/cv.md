@@ -72,8 +72,11 @@ redirect_from:
 * Simulation of the Ising model using the Metropolis algorithm.    
 * Simulation 1D diffusion equation.  
 * The Hodgkin–Huxley model.  
+* Study of the national economy with Nonlinear Dynamical models.  
+* Monte carlo study of the percolation in two-dimensional.  
 **Bachelor Projects**:
-* The Monte-Carlo approach to the study of the integro-differential equations.   
+* The Monte-Carlo approach to the study of the integro-differential equations.  
+* 
 ## Research Interests
 * Nonequilibrium Roughening in Surface Growth,
 * Spreading Phenomena (Epidemic models) in Network
