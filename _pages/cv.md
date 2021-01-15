@@ -73,10 +73,12 @@ redirect_from:
 * Simulation 1D diffusion equation.  
 * The Hodgkin–Huxley model.  
 * Study of the national economy with Nonlinear Dynamical models.  
-* Monte carlo study of the percolation in two-dimensional.  
+* Monte carlo study of the percolation in two-dimensional.
+* Numerical integration
 **Bachelor Projects**:
 * The Monte-Carlo approach to the study of the integro-differential equations.  
-* 
+* Linear and Polynomial interpolation.
+
 ## Research Interests
 * Nonequilibrium Roughening in Surface Growth,
 * Spreading Phenomena (Epidemic models) in Network
@@ -86,7 +88,9 @@ redirect_from:
   * Math
   * Philosophy
   * Social science
-## Workshop Attended
+## Workshop Attended 
+* 24th Annual IASBS Meeting on Condensed Matter Physics & School on Complex Systems, June 20-22, 2018, Institute for advanced studies in basic science, Zanjan, Iran.  
+* 24th School of Physics for B. Sc. Students, February, 2019, Institute for advanced studies in basic science, Zanjan, Iran.  
 ## Seminar/Webinar Attended
 
 
