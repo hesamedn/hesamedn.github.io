@@ -38,9 +38,6 @@ redirect_from:
 * Persian (bilingual)
 * Azerbaijan (proficient)
 
-## Related Course Attended
-* Theoretical Neuroscience (Book: Neural Dynamics)
-
 ## Projects and Researches
 
 **Master projects**:
@@ -79,7 +76,11 @@ redirect_from:
 * Physics news Weekly webinar at Sharif University, Tehran, Iran.  
 * Condensed Matter Physics Weekly seminar/webinar at Institute for advanced studies in basic science, Zanjan, Iran.  
 * General Physics Weekly Seminar at Institute for advanced studies in basic science, Zanjan, Iran.  
-
+## Related Course
+* Dynamical Systems, Book: Nonlinear Dynamics and Chaos  
+* Computational Physics, Book: numerical recipes in c++  
+* Complex Networks, Books: Network Science and Networks: An Introduction  
+* 1 and 2 Statistical Mechanics,Books: A Modern Course in Statistical Physics, david tong lectures and Statistical Mechanics of Particles  
 ## Skills
 * Numerical Simulation,
   * Floating point arithmetic
