@@ -21,7 +21,7 @@ redirect_from:
 Our Group
 =========
 
-**Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran. Our favorite research topics are:
+**Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the Institute for Advanced Studies in Basic Sciences(IASBS). Our favorite research topics are:
 * Neuroscience
 * Sandpile Model
 * Spreading Phenomena
