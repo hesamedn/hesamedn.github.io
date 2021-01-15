@@ -60,17 +60,20 @@ redirect_from:
 ## Projects and Researches
 
 **Master thesis project**: Numerical simulation of 1 + 1 Dimension model of KPZ using Moving-Mesh method for discretization.  
-
+**Master thesis project**: Generate a noise with arbitrary power spectral density
 **Bachelor Project**: "The Monte-Carlo approach to the study of the integro-differential equations."  
 ## Research Interests
+* Nonequilibrium Roughening in Surface Growth,
+* Spreading Phenomena (Epidemic models) in Network
+* Data Science
+* Other Research Interests 
+  * Computer Science
+  * Math
+  * Philosophy
+  * Social science
 ## Workshop Attended
 ## Seminar/Webinar Attended
 
-## Other  Research Interests 
-* Computer Science
-* Math
-* Philosophy
-* Social science
 
 ## Personal Information
 
