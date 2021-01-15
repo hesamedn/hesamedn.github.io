@@ -25,7 +25,7 @@ ____________________________
 
 >[University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en)  
 >Project title: "Monte Carlo (MC) algorithm for solving mathematical equations in physics problems"  
->Supervisor: [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi)  
+>Supervisor: [Dr. Zahra Ebadi](https://scholar.google.com/citations?user=capnNHYAAAAJ&hl=en)  
 >September 2013 - August 2018
 
 **High School**  
@@ -41,15 +41,15 @@ ____________________________
 
 ## Skills
 * Numerical Simulation,
-  * Interface growth models (EW, KPZ)
-  * Epidemic models
-  * Nonlinear dynamical systems and chaos,
+  * Surface Growth models (EW, KPZ)
+  * Epidemic Models
+  * Nonlinear Dynamical Systems and Chaos,
 * Programming Languages
   * C++ 
   * Python
 * Data Science
   * Regression
-* Other skills
+* Other Skills
   * Git 
   * Linux
   * LaTeX
@@ -59,6 +59,8 @@ ____________________________
   * Data Visualization
 
 ## Projects and Researches
+Moving Mesh using to discretize the 1+1 Dimensional KPZ model in the Strong Coupling Limit.
+
 ## Research Interests
 ## Workshop Attended
 ## Seminar/Webinar Attended
