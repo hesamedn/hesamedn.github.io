@@ -66,7 +66,7 @@ redirect_from:
   * Math
   * Philosophy
   * Social science
-  
+
 ## Workshop Attended 
 * 24th Annual IASBS Meeting on Condensed Matter Physics & School on Complex Systems, June 20-22, 2018, Institute for advanced studies in basic science, Zanjan, Iran.  
 * School of Physics for B. Sc. Students, February, 2019, Institute for advanced studies in basic science, Zanjan, Iran.
@@ -75,13 +75,15 @@ redirect_from:
 * Complex Systems Weekly webinar at Sharif University, Tehran, Iran.  
 * Physics news Weekly webinar at Sharif University, Tehran, Iran.  
 * Condensed Matter Physics Weekly seminar/webinar at Institute for advanced studies in basic science, Zanjan, Iran.  
-* General Physics Weekly Seminar at Institute for advanced studies in basic science, Zanjan, Iran.  
+* General Physics Weekly Seminar at Institute for advanced studies in basic science, Zanjan, Iran. 
+
 ## Related Course
 * Dynamical Systems, Book: Nonlinear Dynamics and Chaos  
 * Computational Physics, Book: Numerical recipes in c++  
 * Complex Networks, Books: Network Science and Networks: An Introduction  
 * Statistical Mechanics (1 and 2),Books: A Modern Course in Statistical Physics, David Tong lectures and Statistical Mechanics of Particles 
 * Theoretical Neuroscience, Book:Neuronal Dynamics From single neurons to networks and models of cognition  
+
 ## Skills
 * Numerical Simulation,
   * Floating point arithmetic
