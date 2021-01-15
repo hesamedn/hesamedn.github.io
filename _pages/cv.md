@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-____________________________
+
 ## Eduction
 
 
@@ -24,7 +24,6 @@ ____________________________
 **Bachelor of Science in Physics**
 
 >[University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en)  
->Project title: "Monte Carlo (MC) algorithm for solving mathematical equations in physics problems"  
 >Supervisor: [Dr. Zahra Ebadi](https://scholar.google.com/citations?user=capnNHYAAAAJ&hl=en)  
 >September 2013 - August 2018
 
@@ -59,8 +58,10 @@ ____________________________
   * Data Visualization
 
 ## Projects and Researches
-Moving Mesh using to discretize the 1+1 Dimensional KPZ model in the Strong Coupling Limit.
 
+**Master thesis project**: Numerical simulation of 1 + 1 Dimension model of KPZ using Moving-Mesh method for discretization.  
+
+**Bachelor Project**: "The Monte-Carlo approach to the study of the integro-differential equations."  
 ## Research Interests
 ## Workshop Attended
 ## Seminar/Webinar Attended
