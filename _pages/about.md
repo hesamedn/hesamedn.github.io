@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I’m an M.Sc. student of Physics from the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en).  I'm working on the Numerical Simulation of the KPZ equation. I focus on the Finite Element Method based on the Moving Mesh using to discretize the 1+1 Dimensional KPZ model in the Strong Coupling Limit. My numerical simulations are performed with Python and c++.
+* I’m an M.Sc. student of Physics from the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en).  I'm working on the Numerical Simulation of the KPZ equation. I focus on the Finite Element Method based on the Moving Mesh using to discretize the 1+1 Dimensional KPZ model in the Strong Coupling Limit. My numerical simulations are performed with Python and c++. [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/)  and [Dr. Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm) are my Supervisor.
 
 * In my spare time, I sometimes study other branches of Science like sociology, I also like to connect with other disciplines and multidisciplinary teams.
 
@@ -21,7 +21,7 @@ redirect_from:
 Our Group
 =========
 
-[**Dr. Mohammad D. Niry**](https://iasbs.ac.ir/~m.d.niry/) and [**Dr. Bahman Farnudi**](https://iasbs.ac.ir/~farnudi/stsn_eng.htm) are the heads of our research group at the Faculty of Physics of the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). Our favorite research topics are:
+**Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). Our favorite research topics are:
 * Neuroscience
 * Sandpile Model
 * Spreading Phenomena
