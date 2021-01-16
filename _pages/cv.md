@@ -80,10 +80,11 @@ redirect_from:
 
 ## Related Course
 * Dynamical Systems, Book: Nonlinear Dynamics and Chaos  
-* Computational Physics, Book: Numerical recipes in c++  
+* Computational Physics Book: Numerical recipes in c++  
 * Complex Networks, Books: Network Science and Networks: An Introduction  
 * Statistical Mechanics (1 and 2),Books: A Modern Course in Statistical Physics, David Tong lectures and Statistical Mechanics of Particles 
 * Theoretical Neuroscience, Book: Neuronal Dynamics From single neurons to networks and models of cognition  
+* Numerical Analysis, Book: Numerical Methods for Engineers and Scientists
 
 ## Skills
 * Numerical Simulation,
@@ -93,7 +94,7 @@ redirect_from:
   * GNU Scientific Library
   * Solving systems of linear equations (direct methos and iterative methods)
   * Numerical integration
-  * Ordinary differential equations
+  * Ordinary differential equations (Initial value and Boundary value problem)
 * Programming Languages
   * C++ 
   * Python
