@@ -101,13 +101,14 @@ redirect_from:
 * Other Skills
   * Git 
   * LaTeX
-  * Bash Script
+  * Linux
   * Web Designing
   * Data Visualization
   * Floating point arithmetic
   * High performance computing
   * OriginPro
-  * Linux
+
+
   
 ## Personal Information
 
