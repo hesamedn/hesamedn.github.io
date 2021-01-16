@@ -92,7 +92,7 @@ redirect_from:
   * GNU Scientific Library (GSL)  
   * Solving systems of linear equations (direct methos and iterative methods)
   * Numerical integration
-  * Ordinary differential equations (Initial value and Boundary value problem)
+  * Ordinary differential equations (initial value and boundary value problem)
 * Programming Languages
   * C++ 
   * Python
