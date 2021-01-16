@@ -89,7 +89,7 @@ redirect_from:
 ## Skills
 * Numerical Simulation,
   * Modeling and statistical discription of data
-  * GNU Scientific Library
+  * GNU Scientific Library (GSL)  
   * Solving systems of linear equations (direct methos and iterative methods)
   * Numerical integration
   * Ordinary differential equations (Initial value and Boundary value problem)
