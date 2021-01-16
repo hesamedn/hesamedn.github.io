@@ -88,8 +88,6 @@ redirect_from:
 
 ## Skills
 * Numerical Simulation,
-  * Floating point arithmetic
-  * High performance computing
   * Modeling and statistical discription of data
   * GNU Scientific Library
   * Solving systems of linear equations (direct methos and iterative methods)
@@ -102,12 +100,14 @@ redirect_from:
   * Regression
 * Other Skills
   * Git 
-  * Linux
   * LaTeX
-  * OriginPro
   * Bash Script
   * Web Designing
   * Data Visualization
+  * Floating point arithmetic
+  * High performance computing
+  * OriginPro
+  * Linux
   
 ## Personal Information
 
