@@ -18,8 +18,9 @@ redirect_from:
 
 * In my spare time, I sometimes study other branches of Science like sociology, I also like to connect with other disciplines and multidisciplinary teams.
 
-![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo5.jpeg)
+<!---  ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo5.jpeg)
 January 17,2019 IASBS students meeting
+just --->
 
 Our Group
 =========
