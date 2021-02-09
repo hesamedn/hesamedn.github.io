@@ -62,7 +62,7 @@ redirect_from:
 * Spreading Phenomena (Epidemic models) in Network
 * General area of network sciences
 * neuroscience
-* * Modeling and statistical discription of data(Data sciences)
+* Modeling and statistical discription of data
 
 ## Workshop Attended 
 * 24th Annual IASBS Meeting on Condensed Matter Physics & School on Complex Systems, June 20-22, 2018, Institute for advanced studies in basic science, Zanjan, Iran.  
@@ -90,20 +90,23 @@ redirect_from:
   * Solving systems of linear equations (direct methos and iterative methods)
   * Numerical integration
   * Ordinary differential equations (initial value and boundary value problem)
+  * Floating point arithmetic
+  * High performance computing
+  
 * Programming Languages
   * C++ 
   * Python
+  
 * Data Science
-  * Regression
-* Other Skills
-  * Git 
-  * LaTeX
+  * Numpy
+  * Pandas
+  
+* Other Skills 
   * Linux
+  * LaTeX
+  * Git
   * Web Designing
   * Data Visualization
-  * Floating point arithmetic
-  * High performance computing
-  * OriginPro
 
 
   
