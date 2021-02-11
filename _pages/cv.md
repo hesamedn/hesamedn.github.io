@@ -59,10 +59,10 @@ redirect_from:
 
 ## Research Interests
 * Nonequilibrium Roughening in Surface Growth,
-* Spreading Phenomena (Epidemic models) in Network
-* General area of network sciences
-* neuroscience
+* Spreading Phenomena(disease,ideology) in Networks 
 * Modeling and statistical discription of data
+* Dynamical Systems and Chaos
+
 
 ## Workshop Attended 
 * 24th Annual IASBS Meeting on Condensed Matter Physics & School on Complex Systems, June 20-22, 2018, Institute for advanced studies in basic science, Zanjan, Iran.  
