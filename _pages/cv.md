@@ -112,8 +112,8 @@ redirect_from:
   
 ## Personal Information
 
-Birth date: 1994/12/24
+  Birth date: 1994/12/24
 
-Birth place: Tabriz, Iran
+  Birth place: Tabriz, Iran
 
-Nationality: Iranian
+  Nationality: Iranian
