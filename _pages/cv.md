@@ -24,6 +24,7 @@ redirect_from:
 **Bachelor of Science in Physics**
 
 >[University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en)  
+>Project title: "The Monte-Carlo approach to the study of the integro-differential equations"
 >Supervisor: [Dr. Zahra Ebadi](https://scholar.google.com/citations?user=capnNHYAAAAJ&hl=en)  
 >September 2013 - August 2018
 
