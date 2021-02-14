@@ -68,6 +68,7 @@ redirect_from:
 ## Workshop Attended 
 * 24th Annual IASBS Meeting on Condensed Matter Physics & School on Complex Systems, June 20-22, 2018, Institute for advanced studies in basic science, Zanjan, Iran.  
 * School of Physics for B. Sc. Students, February, 2019, Institute for advanced studies in basic science, Zanjan, Iran.
+* 25th Annual IASBS Meeting on Condensed Matter Physics & School on Complex Systems, June 13-14, 2019 , Institute for advanced studies in basic science, Zanjan, Iran.
 * Data Science Workshop Series By: [Alireza Vafaei Sadr](http://physics.ipm.ac.ir/~vafaei/), Institute For Research In Fundamental Sciences, Tehran, Iran.
 
 ## Seminar/Webinar Attended  
