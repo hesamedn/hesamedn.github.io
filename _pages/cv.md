@@ -58,10 +58,10 @@ redirect_from:
 * Numerical integration.
 
 ## Research Interests
-* Nonequilibrium Roughening in Surface Growth,
-* Spreading Phenomena(disease,ideology) in Networks 
-* Modeling and statistical discription of data
-* Dynamical Systems and Chaos
+* Surface growth model (EW, KPZ).
+* Dynamical Processes on Complex networks.
+* Modeling and statistical discription of data.
+* Dynamical Systems and Chaos.
 
 
 ## Workshop Attended 
