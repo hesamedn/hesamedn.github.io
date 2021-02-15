@@ -34,10 +34,9 @@ redirect_from:
 >September 2009 - August 2013
 
 ## Languages
-* English (upper intermediate)
 * Turkish (native)
 * Persian (bilingual)
-* Azerbaijan (proficient)
+* English (upper intermediate)
 
 ## Projects and Researches
 
