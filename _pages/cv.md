@@ -97,9 +97,10 @@ redirect_from:
   * C++ 
   * Python
   
-* Data Science
+* Data Science and machine learning library
   * Numpy
   * Pandas
+  * scikit-learn
   
 * Other Skills 
   * Linux
