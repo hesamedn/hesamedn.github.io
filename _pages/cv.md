@@ -49,7 +49,7 @@ redirect_from:
 * Simulation of the Ising model using the Metropolis algorithm.    
 * Simulation 1D diffusion equation.  
 * The Hodgkin–Huxley model.  
-* Study of the national economy with Nonlinear Dynamical models.  
+* Study of a simple national economy model with Nonlinear Dynamical method.
 * Monte carlo method study of the percolation in two-dimensional.    
 
 **Bachelor Projects**:
