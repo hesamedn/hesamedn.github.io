@@ -18,9 +18,9 @@ redirect_from:
 
 * Usually I am interested in algorithmic methods for solving physics problems, I also like to connect with other disciplines and multidisciplinary teams.
 
-<!---  ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo5.jpeg)
+ ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo5.jpeg)
 January 17,2019 IASBS students meeting
-just --->
+<!--- just --->
 
 Our Group
 =========
