@@ -14,9 +14,9 @@ redirect_from:
 
 * I hold a Bachelor’s Degree in Physics from the [University of Mohaghegh Ardabili, Ardabil, Iran,](https://uma.ac.ir/index.php?slc_lang=en) where I was advised by [Dr. Zahra Ebadi](https://www.researchgate.net/profile/Zahra-Ebadi).
 
-* My research interests lie in the general area of Complex Systems, Network Science and Data Science, particularly in Nonequilibrium Roughening in Surface Growth, and Spreading Phenomena (Epidemic models) in Network.
+* My research interests lie in the general area of Complex Systems and Network Science, particularly in Nonequilibrium Roughening in Surface Growth.
 
-* In my spare time, I sometimes study other branches of Science like sociology, I also like to connect with other disciplines and multidisciplinary teams.
+* Usually I am interested in algorithmic methods for solving physics problems, I also like to connect with other disciplines and multidisciplinary teams.
 
 <!---  ![Photo](https://raw.githubusercontent.com/hesamedn/hesamedn.github.io/master/images/photo5.jpeg)
 January 17,2019 IASBS students meeting
