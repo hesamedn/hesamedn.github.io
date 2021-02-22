@@ -28,12 +28,13 @@ Our Group
 =========
 
 **Dr. Mohammad D. Niry** and **Dr. Bahman Farnudi** are the heads of our research group at the Faculty of Physics of the Institute for Advanced Studies in Basic Sciences(IASBS). Our favorite research topics are:
+* Surface growth model (EW, KPZ, and RSOS)
+* Dynamical process on complex networks
+* Synchronization, Kuramoto model
 * Neuroscience
 * Sandpile Model
-* Spreading Phenomena
-* Synchronization, Kuramoto model
+* Ising Model
 * Stochastic nature of seismic activity
-* Surface growth model (EW, KPZ, and RSOS)
 * Localization of wave in disordered media
 * Random Walk and Fractional Brownian motion
 * The Intermittency issue in Burgulence and Turbulence.
