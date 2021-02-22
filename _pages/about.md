@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I’m an M.Sc. student of Physics from the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/)  and [Dr. Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm) are my Supervisor.
+I’m an M.Sc. student of Physics from the [Institute for Advanced Studies in Basic Sciences(IASBS), Zanjan, Iran](https://iasbs.ac.ir/?lang=en). [Dr. Mohammad D. Niry](https://iasbs.ac.ir/~m.d.niry/)  and [Dr. Bahman Farnudi](https://iasbs.ac.ir/~farnudi/stsn_eng.htm) are my co-supervisors.
 
 We study the effect of the geometric shape of the substrate on the growth process of the 1+1 Dimensional KPZ model in the strong coupling coefficient mode by numerical simulation. In our simulation, the substrate is split into a one-dimensional network of nodes. To solve the problem of the limited size effect, the boundary condition is defined as periodic. These nodes move relative to each other and their distance from each other varies. In the evolution of the KPZ stochastic differential equation, when a point wants to create a cusp(instability), the distance between the nodes decreases at that point. The theoretical part of the project has its complexities, but the main challenge of our research was simulation software development. We develop the main part of the software in C++ and the visualization part in Python.
 
